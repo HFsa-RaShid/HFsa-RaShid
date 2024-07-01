@@ -1,12 +1,7 @@
-# Hello, I'm HFsa-RaShid!
 
-![logo](https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(3).gif)
 ![logo](https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/banner.gif)
-<img src="https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(3).gif" style="width: 100%; height: auto;" alt="logo">
-Welcome to my GitHub profile!
 
 ## Skills
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML logo" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS logo" width="40" height="40"/>
