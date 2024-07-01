@@ -1,7 +1,7 @@
 # Hello, I'm HFsa-RaShid!
 
 
-<img src="https://static.tnn.in/thumb/msid-96484966,width-1280,height-720,resizemode-75/96484966.jpg"  width="40" height="40"/>
+<img src="https://static.tnn.in/thumb/msid-96484966,width-1280,height-720,resizemode-75/96484966.jpg"  width="400" height="400"/>
 
 Welcome to my GitHub profile!
 
