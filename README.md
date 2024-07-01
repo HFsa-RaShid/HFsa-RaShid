@@ -1,7 +1,7 @@
 # Hello, I'm HFsa-RaShid!
 
 ![logo](https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(3).gif)
-<img src="https://static.tnn.in/thumb/msid-96484966,width-1280,height-720,resizemode-75/96484966.jpg"  width="400" height="400"/>
+<img src="https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/Blue%20Animated%20Developer%20Conference%20Video%20(3).gif"  width="400" height="400"/>
 
 Welcome to my GitHub profile!
 
