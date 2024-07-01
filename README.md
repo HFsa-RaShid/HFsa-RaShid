@@ -2,7 +2,8 @@
 
 ![Profile Banner](Blue%20Animated%20Developer%20Conference%20Video%20(3).gif)
 
-Welcome to my GitHub profile!
+Welcom![Uploading Blue Animated Developer Conference Video (3).gif…]()
+e to my GitHub profile!
 
 ## Skills
 
