@@ -1,7 +1,7 @@
 # Hello, I'm HFsa-RaShid!
 
 
-![Uploading Blue Animated Developer Conference Video (3).gif…]()
+<img src="https://www.canva.com/design/DAGJu2r_NeU/FPezepu7MeMVkyplMqpyrg/edit?utm_content=DAGJu2r_NeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  width="40" height="40"/>
 
 Welcome to my GitHub profile!
 
