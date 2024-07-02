@@ -14,6 +14,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="40" height="40"/>
 </p>
+## 🛠️ Tech Stack
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,redux,next,nodejs,express,mongodb,mysql,firebase,prisma" />
+  </a>
+</p>
 
 
 ## 📊 Current Stats
