@@ -3,17 +3,17 @@
 
 ## 👩‍💻 About Me
 
-**Front-End Development**: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.
-**React.js Expertise**: ⚛️ Proficient in building dynamic UIs using React.js, including hooks and state management with Redux.
-**Back-End Development**: 🖥️ Experienced with Node.js and Express.js for developing server-side applications and RESTful APIs.
-**Database Management**: 📊 Proficient in MongoDB and Mongoose for efficient database design and data manipulation.
-**Collaborative Workflow**: 🤝 Skilled in using Git and GitHub for version control, with strong problem-solving skills in agile environments.
+- **Front-End Development**: 🌐 Skilled in HTML, CSS, JavaScript, and Tailwind CSS to create responsive, visually appealing web applications.
+- **React.js Expertise**: ⚛️ Proficient in building dynamic UIs using React.js, including hooks and state management with Redux.
+- **Back-End Development**: 🖥️ Experienced with Node.js and Express.js for developing server-side applications and RESTful APIs.
+- **Database Management**: 📊 Proficient in MongoDB and Mongoose for efficient database design and data manipulation.
+- **Collaborative Workflow**: 🤝 Skilled in using Git and GitHub for version control, with strong problem-solving skills in agile environments.
 
 
 ## 🛠️ Tech Stack
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=c,c++,html,css,tailwind,javascript,react,nodejs,express,mongodb,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,react,nodejs,express,mongodb,mysql,firebase" />
   </a>
 </p>
 
