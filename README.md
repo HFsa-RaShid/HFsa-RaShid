@@ -29,9 +29,16 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HFsa-RaShid/langs)](https://githubtrends.io) 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HFsa-RaShid&theme=react">
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=HFsa-RaShid)](https://wakatime.com/@HFsa-RaShid)
+
 </div>
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HFsa-RaShid&show_icons=true&theme=radical)](https://github.com/HFsa-RaShid)
+
+## Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HFsa-RaShid&layout=compact&theme=radical)](https://github.com/HFsa-RaShid)
 
 
 
