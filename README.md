@@ -16,13 +16,14 @@
 </p>
 
 
+## 📊 Current Stats
+<div align="center">
 
-[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFsa-RaShid&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HFsa-RaShid&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HFsa-RaShid&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HFsa-RaShid&theme=dark)
 
-[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HFsa-RaShid/langs)](https://githubtrends.io) 
+  
+</div>
 
 
 
