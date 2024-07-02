@@ -21,24 +21,18 @@
 ## 📊 Current Stats
 <div align="center">
   
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFsa-RaShid&theme=blueberry) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HFsa-RaShid&theme=blueberry) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HFsa-RaShid&theme=blueberry) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HFsa-RaShid&theme=blueberry)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HFsa-RaShid/langs)](https://githubtrends.io) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HFsa-RaShid&layout=compact&theme=radical)](https://github.com/HFsa-RaShid)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HFsa-RaShid&theme=react">
 
 </div>
 
-## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HFsa-RaShid&show_icons=true&theme=radical)](https://github.com/HFsa-RaShid)
 
-## Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HFsa-RaShid&layout=compact&theme=radical)](https://github.com/HFsa-RaShid)
 
 
 
