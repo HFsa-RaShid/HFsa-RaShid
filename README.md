@@ -29,6 +29,7 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/HFsa-RaShid/langs)](https://githubtrends.io) 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HFsa-RaShid&theme=react">
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=HFsa-RaShid)
 </div>
 
 
