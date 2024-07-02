@@ -17,8 +17,8 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub stats"></br>
-  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub stats"></br>
+  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/main/profile-summary-card-output/default/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
 </p>
 
