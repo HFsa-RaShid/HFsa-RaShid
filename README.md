@@ -16,11 +16,11 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/main/profile-summary-card-output/default/0-profile-details.svg" alt="GitHub stats"></br>
-  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/main/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
-</p>
+
+[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/HFsa-RaShid/HFsa-RaShid/master/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
 
