@@ -21,7 +21,7 @@
 ## 📊 Current Stats
 <div align="center">
   
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; 
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp; 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HFsa-RaShid&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HFsa-RaShid&theme=radical)
