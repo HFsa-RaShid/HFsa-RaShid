@@ -1,5 +1,5 @@
 
-![logo](https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/banner.gif)
+![logo](https://github.com/HFsa-RaShid/HFsa-RaShid/blob/main/banner.png)
 
 ## 👩‍💻 About Me
 
